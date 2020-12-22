@@ -1,6 +1,7 @@
 # A-Class-a-Day
 
 Hello and welcome to my repository!  Hopefully you're here from the link on my resume or LinkedIn and wanted to see what I've been up to.  
+
 The purpose or goal of this repo is to showcase my learning of new lanuguages and tools that I couldn't have obtained from just school and documenting my progress. 
 Essentially what I'm doing is taking online courses offered by Udemy and trying to take a class or write a class each day to better my skills. 
 I'll be organizing each course into it's own folder containing: any code I've written, a list of new things I've learned, and a final project that combines all the new things I've learned.
